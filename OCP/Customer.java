@@ -2,9 +2,9 @@ package OCP;
 
 class Customer {
     private String name;
-    private DiscountStrategy discount;
+    private DiscountHandler discount;
 
-    public Customer(String name, DiscountStrategy discount) {
+    public Customer(String name, DiscountHandler discount) {
         this.name = name;
         this.discount = discount;
     }

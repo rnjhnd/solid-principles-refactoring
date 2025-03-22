@@ -1,13 +1,13 @@
 package SRP;
 
-public class Dog implements PetActions {
+public class Cat implements PetActions {
     @Override
     public String makeSound() {
-        return "Woof, woof!";
+        return "Meow, meow!";
     }
 
     @Override
     public String eat() {
-        return "Eating meat...";
+        return "Eating fish...";
     }
 }

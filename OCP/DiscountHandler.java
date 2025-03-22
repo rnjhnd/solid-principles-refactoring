@@ -1,5 +1,5 @@
 package OCP;
 
-public interface DiscountStrategy {
+public interface DiscountHandler {
     double calculateDiscount(double amount);
 }
