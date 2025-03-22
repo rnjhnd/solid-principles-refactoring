@@ -69,7 +69,7 @@ public class PaymentProcessor {
 ```
 
 ### Naming Conventions:
-**1.**  Class name must be a NOUN (singular).  
-**2.**  Class names must start with capital letters.  
-**3.**  Attribute name and method name should start with a small letter.  
-**4.**  Method name should be a verb.  
+  **1.**  Class name must be a NOUN (singular).  
+  **2.**  Class names must start with capital letters.  
+  **3.**  Attribute name and method name should start with a small letter.  
+  **4.**  Method name should be a verb.  
