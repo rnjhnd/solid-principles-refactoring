@@ -1,6 +1,7 @@
-![image](https://github.com/user-attachments/assets/1ff151ff-5921-4ae9-910d-b99cb6e87b69)# Lab-Seatwork-4-Solid-Principles
+# Lab-Seatwork-4-Solid-Principles
 
 1. The following object violates the **Single Responsibility Principle (SRP)**. Make the adjustments in the form of Java code to correct the violation.
+
 ![image](https://github.com/user-attachments/assets/48bf49fa-a9cf-4839-accd-5d34a584693f)
 
 2. The following code violates the **Open/Close Principle**.  Refactor the program to remove the violation. 
@@ -33,9 +34,9 @@ public class Customer {
 ```
 
 3. The following design has the following problem:
-* The SmartPhone interface defines methods for making calls, sending SMS, browsing the web, and taking pictures.
-* While  smartphones (iPhone and Samsung) can utilize all functionalities, a basic phone (BasicPhone) only needs calling and SMS capabilities.
-* Forcing the BasicPhone class to implement unused methods (browseWeb and takePicture) violates ISP. 
+    * The SmartPhone interface defines methods for making calls, sending SMS, browsing the web, and taking pictures.
+    * While  smartphones (iPhone and Samsung) can utilize all functionalities, a basic phone (BasicPhone) only needs calling and SMS capabilities.
+    * Forcing the BasicPhone class to implement unused methods (browseWeb and takePicture) violates ISP. 
 ![image](https://github.com/user-attachments/assets/b3b36cb8-1bd6-42e0-b848-cb61988bd9e9)
 
 
