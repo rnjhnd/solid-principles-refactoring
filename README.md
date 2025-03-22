@@ -38,7 +38,7 @@ public class Customer {
 * While  smartphones (<span style="color:green">iPhone</span> and <span style="color:green">Samsung</span>) can utilize all functionalities, a basic phone (<span style="color:green">BasicPhone</span>) only needs calling and SMS capabilities.
 * Forcing the <span style="color:green">BasicPhone</span> class to implement unused methods (<span style="color:green">browseWeb</span> and <span style="color:green">takePicture</span>) violates ISP.
 
-![image](https://github.com/user-attachments/assets/b3b36cb8-1bd6-42e0-b848-cb61988bd9e9)
+  ![image](https://github.com/user-attachments/assets/b3b36cb8-1bd6-42e0-b848-cb61988bd9e9)
 
 &nbsp;&nbsp;&nbsp;&nbsp;Show your solution in codes on how to remove the **Interface Segregation** problem. 
 
