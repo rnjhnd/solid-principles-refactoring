@@ -35,7 +35,7 @@ public class Customer {
 
 **3.** The following design has the following problem:
 * The <span style="color:green">SmartPhone</span> interface defines methods for making calls, sending SMS, browsing the web, and taking pictures.
-* While  smartphones (<span style="color:green">iPhone</span> and <span style="color:green">Samsung</span>) can utilize all functionalities, a basic phone (<span style="color:green">BasicPhone</span>) only needs calling and SMS capabilities.
+* While  smartphones 🟩 iPhone (<span style="color:green">iPhone</span> and <span style="color:green">Samsung</span>) can utilize all functionalities, a basic phone (<span style="color:green">BasicPhone</span>) only needs calling and SMS capabilities.
 * Forcing the <span style="color:green">BasicPhone</span> class to implement unused methods (<span style="color:green">browseWeb</span> and <span style="color:green">takePicture</span>) violates ISP.
 
   ![image](https://github.com/user-attachments/assets/b3b36cb8-1bd6-42e0-b848-cb61988bd9e9)
@@ -69,7 +69,7 @@ public class PaymentProcessor {
 ```
 
 ### Naming Conventions:
-  **1.**  Class name must be a NOUN (singular).  
-  **2.**  Class names must start with capital letters.  
-  **3.**  Attribute name and method name should start with a small letter.  
-  **4.**  Method name should be a verb.  
+**1.**  Class name must be a NOUN (singular).  
+**2.**  Class names must start with capital letters.  
+**3.**  Attribute name and method name should start with a small letter.  
+**4.**  Method name should be a verb.  
