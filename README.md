@@ -1,4 +1,4 @@
-# Lab-Seatwork-4-Solid-Principles
+# SOLID Principles Refactoring Exercises
 
 **1.** The following object violates the **Single Responsibility Principle (SRP)**. Make the adjustments in the form of Java code to correct the violation.
 
