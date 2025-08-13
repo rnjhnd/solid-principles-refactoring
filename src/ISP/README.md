@@ -5,4 +5,4 @@
 
   ![image](https://github.com/user-attachments/assets/b3b36cb8-1bd6-42e0-b848-cb61988bd9e9)
 
-&nbsp;&nbsp;&nbsp;&nbsp;Show your solution in codes on how to remove the **Interface Segregation** problem. 
+Show your solution in codes on how to remove the **Interface Segregation** problem. 
