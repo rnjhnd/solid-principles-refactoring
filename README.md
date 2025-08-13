@@ -44,40 +44,40 @@ This project is organized into four main modules, each focusing on a specific SO
 ```
 solid-principles-refactoring/
 ├── src/
-│   ├── DIP/                          # Dependency Inversion Principle
-│   │   ├── PaymentMethod.java        # Payment method interface
-│   │   ├── PaymentProcessor.java     # Payment processor with dependency injection
-│   │   ├── CashPayment.java          # Cash payment implementation
-│   │   ├── CreditCardPayment.java    # Credit card payment implementation
-│   │   ├── EWalletPayment.java       # E-wallet payment implementation
-│   │   ├── PaymentDemo.java          # DIP demonstration
-│   │   └── README.md                 # Problem statement
-│   ├── ISP/                          # Interface Segregation Principle
-│   │   ├── CallingFunctionality.java # Calling interface
-│   │   ├── MessagingFunctionality.java # Messaging interface
-│   │   ├── WebBrowsingFunctionality.java # Web browsing interface
-│   │   ├── ImageCapturingFunctionality.java # Camera interface
-│   │   ├── BasicPhone.java           # Basic phone implementation
-│   │   ├── Samsung.java              # Samsung smartphone implementation
-│   │   ├── IPhone.java               # iPhone implementation
-│   │   ├── PhoneDemo.java            # ISP demonstration
-│   │   └── README.md                 # Problem statement
-│   ├── OCP/                          # Open/Closed Principle
-│   │   ├── Customer.java             # Customer class with strategy pattern
-│   │   ├── DiscountHandler.java      # Discount strategy interface
-│   │   ├── Student.java              # Student discount strategy
-│   │   ├── SeniorCitizen.java        # Senior citizen discount strategy
-│   │   ├── Regular.java              # Regular customer strategy
-│   │   ├── DiscountDemo.java         # OCP demonstration
-│   │   └── README.md                 # Problem statement
-│   └── SRP/                          # Single Responsibility Principle
-│       ├── Pet.java                  # Pet entity class
-│       ├── PetActions.java           # Actions interface
-│       ├── Dog.java                  # Dog implementation
-│       ├── Cat.java                  # Cat implementation
-│       ├── PetDemo.java              # SRP demonstration
-│       └── README.md                 # Problem statement
-└── README.md                         # Project documentation
+│   ├── DIP/                                      # Dependency Inversion Principle
+│   │   ├── PaymentMethod.java                    # Payment method interface
+│   │   ├── PaymentProcessor.java                 # Payment processor with dependency injection
+│   │   ├── CashPayment.java                      # Cash payment implementation
+│   │   ├── CreditCardPayment.java                # Credit card payment implementation
+│   │   ├── EWalletPayment.java                   # E-wallet payment implementation
+│   │   ├── PaymentDemo.java                      # DIP demonstration
+│   │   └── README.md                             # Problem statement
+│   ├── ISP/                                      # Interface Segregation Principle
+│   │   ├── CallingFunctionality.java             # Calling interface
+│   │   ├── MessagingFunctionality.java           # Messaging interface
+│   │   ├── WebBrowsingFunctionality.java         # Web browsing interface
+│   │   ├── ImageCapturingFunctionality.java      # Camera interface
+│   │   ├── BasicPhone.java                       # Basic phone implementation
+│   │   ├── Samsung.java                          # Samsung smartphone implementation
+│   │   ├── IPhone.java                           # iPhone implementation
+│   │   ├── PhoneDemo.java                        # ISP demonstration
+│   │   └── README.md                             # Problem statement
+│   ├── OCP/                                      # Open/Closed Principle
+│   │   ├── Customer.java                         # Customer class with strategy pattern
+│   │   ├── DiscountHandler.java                  # Discount strategy interface
+│   │   ├── Student.java                          # Student discount strategy
+│   │   ├── SeniorCitizen.java                    # Senior citizen discount strategy
+│   │   ├── Regular.java                          # Regular customer strategy
+│   │   ├── DiscountDemo.java                     # OCP demonstration
+│   │   └── README.md                             # Problem statement
+│   └── SRP/                                      # Single Responsibility Principle
+│       ├── Pet.java                              # Pet entity class
+│       ├── PetActions.java                       # Actions interface
+│       ├── Dog.java                              # Dog implementation
+│       ├── Cat.java                              # Cat implementation
+│       ├── PetDemo.java                          # SRP demonstration
+│       └── README.md                             # Problem statement
+└── README.md                                     # Project documentation
 ```
 
 ## 🛠️ Installation & Setup
