@@ -113,7 +113,7 @@ solid-principles-refactoring/
    java -cp src DIP.PaymentDemo
    ```
 
-## 📖 Usage Examples
+## 📖 Usage
 
 ### Single Responsibility Principle (SRP)
 
